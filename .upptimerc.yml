@@ -13,6 +13,8 @@ sites:
     url: https://thissitedoesnotexist.koj.co
   - name: New
     url: https://luisespinozaa.org
+  - name: New1
+    url: https://luisespinozaalva.org
   - name: IPv6 test
     url: forwardemail.net
     port: 80
