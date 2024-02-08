@@ -16,7 +16,7 @@ sites:
   - name: New1
     url: https://luisespinozaalva.org
   - name: New2
-    url: https://luisespinozaalva2.org
+    url: https://google.es
   - name: IPv6 test
     url: forwardemail.net
     port: 80
