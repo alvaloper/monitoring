@@ -11,6 +11,8 @@ sites:
     url: https://alvaloper.github.io
   - name: Test Broken Site
     url: https://thissitedoesnotexist.koj.co
+  - name: New
+    url: https://luisespinozaa.org
   - name: IPv6 test
     url: forwardemail.net
     port: 80
