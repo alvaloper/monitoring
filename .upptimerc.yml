@@ -40,7 +40,8 @@ status-website:
     - title: GitHub
       #href: https://github.com/$OWNER/$REPO
       href: https://alvaloper.github.io
-  i18n:
+
+i18n:
     activeIncidents: Incidentes activos
     footer: Hola esta website esta hecha con [open source]($REPO), powered by [Alvaloper](https://alvaloper.github.io)
 
