@@ -16,7 +16,7 @@ sites:
   - name: New3
     url: https://google.com.co
   - name: New2
-    url: https://google.es
+    url: https://googleeeeee.es
   - name: IPv6 test
     url: forwardemail.net
     port: 80
@@ -27,7 +27,7 @@ status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   #cname: demo.upptime.js.org
-  theme: light
+  theme: dark
   baseUrl: /monitoring
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
