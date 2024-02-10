@@ -44,6 +44,7 @@ status-website:
 i18n:
     activeIncidents: Incidentes activos
     footer: Hola esta website esta hecha con [open source]($REPO), powered by [Alvaloper](https://alvaloper.github.io)
+    liveStatus: Estado de los Servidores en VIVO
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
