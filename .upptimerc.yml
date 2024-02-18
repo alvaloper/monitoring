@@ -11,12 +11,8 @@ sites:
     url: https://alvaloper.github.io
   - name: New
     url: https://luisespinozaa.org
-  - name: New1
-    url: https://luisespinozaalva.org
   - name: New3
     url: https://google.com.co
-  - name: New2
-    url: https://googleeeeee.es
   - name: IPv6 test
     url: forwardemail.net
     port: 80
