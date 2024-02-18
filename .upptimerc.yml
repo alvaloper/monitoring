@@ -13,6 +13,8 @@ sites:
     url: https://luisespinozaa.org
   - name: New3
     url: https://google.com.co
+  - name: New2
+    url: https://google.com.co
   - name: IPv6 test
     url: forwardemail.net
     port: 80
