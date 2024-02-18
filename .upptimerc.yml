@@ -11,6 +11,8 @@ sites:
     url: https://alvaloper.github.io
   - name: New
     url: https://youtube.com
+  - name: New1
+    url: http://200.116.210.213/cita_pasaporte/elementos/new_register.php
   - name: New3
     url: https://google.com.co
   - name: New2
