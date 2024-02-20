@@ -61,6 +61,8 @@ i18n:
     incidentOngoing: Incidente en Curso
     incidentOpenedAt: Incidente Iniciado
     incidentClosedAt: Incidente Finalizado
+    incidentViewOnGitHub: Ver detalle
+    incidentCommentSummary: Actualizado al $DATE por $AUTHOR
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
