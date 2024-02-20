@@ -44,7 +44,7 @@ status-website:
 i18n:
     activeIncidents: Incidentes activos
     footer: Hola esta website esta hecha con [open source]($REPO), powered by [Alvaloper](https://alvaloper.github.io)
-    liveStatus: Estado de los Servidores en VIVO
+    liveStatus: Estado de los Sistemas en VIVO
     up: Online(OK)
     down: Offline(Error)
     degraded: Lentitud(Alerta)
@@ -53,6 +53,10 @@ i18n:
     duration30D: 30d
     duration1Y: 1a
     durationAll: todo
+    pastIncidents: Incidentes pasados
+    incidentBack: ← Regresar a todos los Incidentes
+    allSystemsOperational: Todos los Sistemas estan Funcionando Correctamente
+    incidentReport: "Incidente #$NUMBER reporte →"
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
