@@ -52,11 +52,15 @@ i18n:
     duration7D: 7d
     duration30D: 30d
     duration1Y: 1a
-    durationAll: todo
+    durationAll: Todo
     pastIncidents: Incidentes pasados
     incidentBack: ← Regresar a todos los Incidentes
     allSystemsOperational: Todos los Sistemas estan Funcionando Correctamente
     incidentReport: "Incidente #$NUMBER reporte →"
+    incidentFixed: Fixed
+    incidentOngoing: Incidente en Curso
+    incidentOpenedAt: Incidente Iniciado
+    incidentClosedAt: Incidente Finalizado
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
