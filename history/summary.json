@@ -167,19 +167,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/google.it.ico",
     "slug": "new4",
     "status": "up",
-    "uptime": "60.50%",
-    "uptimeDay": "60.50%",
-    "uptimeWeek": "60.50%",
-    "uptimeMonth": "60.50%",
-    "uptimeYear": "60.50%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 413,
     "timeDay": 413,
     "timeWeek": 413,
     "timeMonth": 413,
     "timeYear": 413,
-    "dailyMinutesDown": {
-      "2024-02-25": 6
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "IPv6 test",
