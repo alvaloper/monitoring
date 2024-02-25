@@ -17,6 +17,8 @@ sites:
     url: https://google.com.co
   - name: New2
     url: https://google.com.co
+  - name: New4
+    url: https://gooooooooooogle.com
   - name: IPv6 test
     url: forwardemail.net
     port: 80
