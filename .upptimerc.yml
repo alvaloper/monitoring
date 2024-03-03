@@ -19,6 +19,8 @@ sites:
     url: https://google.com.co
   - name: New4
     url: https://google.it
+  - name: Xataka
+    url: https://www.xa3ta3ka.com/
   - name: IPv6 test
     url: forwardemail.net
     port: 80
