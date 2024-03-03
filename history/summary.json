@@ -229,18 +229,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/google.de.ico",
     "slug": "cointelegraph",
     "status": "up",
-    "uptime": "0.91%",
-    "uptimeDay": "0.91%",
-    "uptimeWeek": "0.91%",
-    "uptimeMonth": "0.91%",
-    "uptimeYear": "0.91%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 127,
     "timeDay": 127,
     "timeWeek": 127,
     "timeMonth": 127,
     "timeYear": 127,
-    "dailyMinutesDown": {
-      "2024-03-03": 10
-    }
+    "dailyMinutesDown": {}
   }
 ]
