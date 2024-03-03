@@ -211,18 +211,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/dolar.wilkinsonpc.com.co.ico",
     "slug": "dolar-trm",
     "status": "up",
-    "uptime": "42.97%",
-    "uptimeDay": "42.97%",
-    "uptimeWeek": "42.97%",
-    "uptimeMonth": "42.97%",
-    "uptimeYear": "42.97%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 296,
     "timeDay": 296,
     "timeWeek": 296,
     "timeMonth": 296,
     "timeYear": 296,
-    "dailyMinutesDown": {
-      "2024-03-03": 7
-    }
+    "dailyMinutesDown": {}
   }
 ]
