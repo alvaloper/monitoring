@@ -24,7 +24,7 @@ sites:
   - name: Dolar TRM
     url: https://dolar.wilkinsonpc.com.co/
   - name: Cointelegraph
-    url: https://cointelegraph.com/
+    url: https://google.de/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
