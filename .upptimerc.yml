@@ -21,11 +21,8 @@ sites:
     url: https://google.it
   - name: Xataka
     url: https://www.xataka.com/
-  - name: IPv6 test
-    url: forwardemail.net
-    port: 80
-    check: "tcp-ping"
-    ipv6: true
+  - name: Dolar TRM
+    url: https://www.banrep.gov.co/es/estadisticas33/trm
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
