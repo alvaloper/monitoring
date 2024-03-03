@@ -23,6 +23,8 @@ sites:
     url: https://www.xataka.com/
   - name: Dolar TRM
     url: https://dolar.wilkinsonpc.com.co/
+  - name: Cointelegraph
+    url: https://cointelegraphxyz741.com/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
