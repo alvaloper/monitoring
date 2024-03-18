@@ -13,10 +13,6 @@ sites:
     url: https://youtube.com
   - name: New1
     url: https://google.com.ar
-  - name: New3
-    url: https://google.com.co
-  - name: New2
-    url: https://google.com.co
   - name: New4
     url: https://google.it
   - name: Xataka
@@ -25,6 +21,8 @@ sites:
     url: https://dolar.wilkinsonpc.com.co/
   - name: Cointelegraph
     url: https://google.de/
+  - name: Pasaportes CUCUTA
+    url: https://vivedigital.nortedesantander.gov.co/cita_pasaporte/elementos/new_register.php
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
