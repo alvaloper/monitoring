@@ -22,7 +22,7 @@ sites:
   - name: Cointelegraph
     url: https://google.de/
   - name: Pasaportes CUCUTA
-    url: https://vivedigital.nortedesantander.gov.co/cita_pasaporte/
+    url: https://nortedesantander.gov.co
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
