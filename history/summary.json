@@ -157,18 +157,20 @@
     "url": "https://www.xataka.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.xataka.com.ico",
     "slug": "xataka",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 489,
-    "timeDay": 500,
-    "timeWeek": 582,
-    "timeMonth": 544,
-    "timeYear": 489,
-    "dailyMinutesDown": {}
+    "time": 561,
+    "timeDay": 5443,
+    "timeWeek": 1807,
+    "timeMonth": 862,
+    "timeYear": 561,
+    "dailyMinutesDown": {
+      "2024-07-08": 0
+    }
   },
   {
     "name": "Dolar TRM",
