@@ -22,7 +22,7 @@ status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: server2track.alvaloper.com
-  theme: dark
+  theme: night
   # baseUrl: /monitoring
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Server2Track
@@ -32,13 +32,14 @@ status-website:
   navbar:
     - title: Status
       href: /
-    - title: GitHub
+    - title: WebDevelopment
       #href: https://github.com/$OWNER/$REPO
-      href: https://alvaloper.github.io
+      href: https://alvaloper.com
 
 i18n:
     activeIncidents: Incidentes activos
-    footer: Hola esta website esta hecha con [open source]($REPO), powered by [Alvaloper](https://alvaloper.github.io)
+    #footer: Hola esta website esta hecha con [open source]($REPO), powered by [Alvaloper](https://alvaloper.github.io)
+    footer: Hola esta website esta hecha con Open Source, powered by [Alvaloper](https://alvaloper.com)
     liveStatus: Estado de los Sistemas en VIVO
     up: Online(OK)
     down: Offline(Error)
