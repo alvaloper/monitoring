@@ -24,9 +24,9 @@
     "url": "https://alvaloper.github.io",
     "icon": "https://icons.duckduckgo.com/ip3/alvaloper.github.io.ico",
     "slug": "alvaloper",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -35,7 +35,9 @@
     "timeWeek": 226,
     "timeMonth": 277,
     "timeYear": 128,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-02-05": 0
+    }
   },
   {
     "name": "New",
@@ -140,9 +142,9 @@
     "url": "https://alvaloper.com",
     "icon": "https://icons.duckduckgo.com/ip3/alvaloper.com.ico",
     "slug": "alvaloper",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -151,6 +153,8 @@
     "timeWeek": 226,
     "timeMonth": 277,
     "timeYear": 128,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-02-05": 0
+    }
   }
 ]
