@@ -6,7 +6,7 @@
     "slug": "google",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 95,
     "timeYear": 107,
     "dailyMinutesDown": {
+      "2025-08-26": 0,
       "2025-06-26": 16
     }
   },
@@ -145,18 +146,19 @@
     "url": "https://google.de/",
     "icon": "https://icons.duckduckgo.com/ip3/google.de.ico",
     "slug": "cointelegraph",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 343,
-    "timeDay": 213,
-    "timeWeek": 418,
-    "timeMonth": 389,
+    "timeDay": 386,
+    "timeWeek": 436,
+    "timeMonth": 394,
     "timeYear": 344,
     "dailyMinutesDown": {
+      "2025-08-26": 0,
       "2025-06-26": 16
     }
   },
