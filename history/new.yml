@@ -1,7 +1,7 @@
 url: https://youtube.com
-status: down
-code: 502
-responseTime: 9945
-lastUpdated: 2025-12-19T13:19:08.794Z
+status: up
+code: 200
+responseTime: 400
+lastUpdated: 2025-12-19T13:46:27.110Z
 startTime: 2024-02-08T17:28:53.404Z
 generator: Upptime <https://github.com/upptime/upptime>
