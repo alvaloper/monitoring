@@ -4,23 +4,24 @@
     "url": "https://www.google.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.google.com.ico",
     "slug": "google",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 129,
-    "timeDay": 61,
-    "timeWeek": 80,
-    "timeMonth": 89,
-    "timeYear": 133,
+    "timeDay": 262,
+    "timeWeek": 138,
+    "timeMonth": 100,
+    "timeYear": 134,
     "dailyMinutesDown": {
       "2025-06-26": 16,
       "2025-08-26": 20,
       "2025-11-05": 21,
       "2025-12-14": 24,
-      "2025-12-24": 20
+      "2025-12-24": 20,
+      "2026-05-30": 0
     }
   },
   {
@@ -35,10 +36,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 239,
-    "timeDay": 266,
-    "timeWeek": 225,
-    "timeMonth": 218,
-    "timeYear": 242,
+    "timeDay": 232,
+    "timeWeek": 221,
+    "timeMonth": 215,
+    "timeYear": 241,
     "dailyMinutesDown": {
       "2025-11-18": 105,
       "2026-01-27": 33
@@ -55,10 +56,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 404,
-    "timeDay": 420,
-    "timeWeek": 384,
-    "timeMonth": 401,
+    "time": 403,
+    "timeDay": 373,
+    "timeWeek": 397,
+    "timeMonth": 390,
     "timeYear": 420,
     "dailyMinutesDown": {
       "2025-12-19": 27
@@ -75,11 +76,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 462,
-    "timeDay": 557,
-    "timeWeek": 475,
-    "timeMonth": 481,
-    "timeYear": 496,
+    "time": 463,
+    "timeDay": 479,
+    "timeWeek": 497,
+    "timeMonth": 484,
+    "timeYear": 497,
     "dailyMinutesDown": {
       "2025-06-04": 41
     }
@@ -96,10 +97,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 268,
-    "timeDay": 272,
-    "timeWeek": 180,
-    "timeMonth": 177,
-    "timeYear": 261,
+    "timeDay": 187,
+    "timeWeek": 182,
+    "timeMonth": 171,
+    "timeYear": 260,
     "dailyMinutesDown": {
       "2025-11-18": 167
     }
@@ -109,23 +110,24 @@
     "url": "https://google.de/",
     "icon": "https://icons.duckduckgo.com/ip3/google.de.ico",
     "slug": "cointelegraph",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 517,
-    "timeDay": 492,
-    "timeWeek": 378,
-    "timeMonth": 368,
-    "timeYear": 567,
+    "timeDay": 456,
+    "timeWeek": 396,
+    "timeMonth": 361,
+    "timeYear": 568,
     "dailyMinutesDown": {
       "2025-06-26": 16,
       "2025-08-26": 20,
       "2025-11-05": 21,
       "2025-12-14": 24,
-      "2025-12-24": 20
+      "2025-12-24": 20,
+      "2026-05-30": 0
     }
   },
   {
@@ -140,10 +142,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 239,
-    "timeDay": 266,
-    "timeWeek": 225,
-    "timeMonth": 218,
-    "timeYear": 242,
+    "timeDay": 232,
+    "timeWeek": 221,
+    "timeMonth": 215,
+    "timeYear": 241,
     "dailyMinutesDown": {
       "2025-11-18": 105,
       "2026-01-27": 33
