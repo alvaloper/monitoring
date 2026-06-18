@@ -61,7 +61,7 @@
     "timeDay": 554,
     "timeWeek": 467,
     "timeMonth": 432,
-    "timeYear": 427,
+    "timeYear": 428,
     "dailyMinutesDown": {
       "2025-12-19": 27
     }
@@ -71,17 +71,17 @@
     "url": "https://www.xataka.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.xataka.com.ico",
     "slug": "xataka",
-    "status": "up",
+    "status": "down",
     "uptime": "99.70%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "96.42%",
-    "uptimeMonth": "95.04%",
+    "uptimeMonth": "95.03%",
     "uptimeYear": "99.59%",
     "time": 458,
-    "timeDay": 426,
-    "timeWeek": 368,
-    "timeMonth": 363,
-    "timeYear": 482,
+    "timeDay": 228,
+    "timeWeek": 334,
+    "timeMonth": 356,
+    "timeYear": 481,
     "dailyMinutesDown": {
       "2026-06-04": 385,
       "2026-06-03": 80,
@@ -89,7 +89,8 @@
       "2026-06-06": 182,
       "2026-06-07": 253,
       "2026-06-09": 185,
-      "2026-06-15": 361
+      "2026-06-15": 361,
+      "2026-06-18": 0
     }
   },
   {
@@ -107,7 +108,7 @@
     "timeDay": 140,
     "timeWeek": 178,
     "timeMonth": 173,
-    "timeYear": 256,
+    "timeYear": 257,
     "dailyMinutesDown": {
       "2025-11-18": 167
     }
@@ -127,7 +128,7 @@
     "timeDay": 254,
     "timeWeek": 365,
     "timeMonth": 365,
-    "timeYear": 571,
+    "timeYear": 572,
     "dailyMinutesDown": {
       "2025-06-26": 16,
       "2025-08-26": 20,
