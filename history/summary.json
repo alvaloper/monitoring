@@ -29,21 +29,21 @@
     "url": "https://alvaloper.github.io",
     "icon": "https://icons.duckduckgo.com/ip3/alvaloper.github.io.ico",
     "slug": "alvaloper",
-    "status": "down",
-    "uptime": "99.96%",
-    "uptimeDay": "84.81%",
-    "uptimeWeek": "97.83%",
-    "uptimeMonth": "99.50%",
-    "uptimeYear": "99.93%",
+    "status": "up",
+    "uptime": "99.95%",
+    "uptimeDay": "79.88%",
+    "uptimeWeek": "97.13%",
+    "uptimeMonth": "99.34%",
+    "uptimeYear": "99.92%",
     "time": 243,
-    "timeDay": 195,
-    "timeWeek": 206,
-    "timeMonth": 214,
+    "timeDay": 187,
+    "timeWeek": 202,
+    "timeMonth": 212,
     "timeYear": 245,
     "dailyMinutesDown": {
       "2025-11-18": 105,
       "2026-01-27": 33,
-      "2026-07-24": 218
+      "2026-07-24": 289
     }
   },
   {
@@ -145,21 +145,21 @@
     "url": "https://alvaloper.com",
     "icon": "https://icons.duckduckgo.com/ip3/alvaloper.com.ico",
     "slug": "alvaloper",
-    "status": "down",
-    "uptime": "99.96%",
-    "uptimeDay": "84.80%",
-    "uptimeWeek": "97.83%",
-    "uptimeMonth": "99.50%",
-    "uptimeYear": "99.93%",
+    "status": "up",
+    "uptime": "99.95%",
+    "uptimeDay": "79.88%",
+    "uptimeWeek": "97.13%",
+    "uptimeMonth": "99.34%",
+    "uptimeYear": "99.92%",
     "time": 243,
-    "timeDay": 195,
-    "timeWeek": 206,
-    "timeMonth": 214,
+    "timeDay": 187,
+    "timeWeek": 202,
+    "timeMonth": 212,
     "timeYear": 245,
     "dailyMinutesDown": {
       "2025-11-18": 105,
       "2026-01-27": 33,
-      "2026-07-24": 218
+      "2026-07-24": 289
     }
   }
 ]
