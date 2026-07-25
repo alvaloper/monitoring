@@ -29,21 +29,22 @@
     "url": "https://alvaloper.github.io",
     "icon": "https://icons.duckduckgo.com/ip3/alvaloper.github.io.ico",
     "slug": "alvaloper",
-    "status": "down",
-    "uptime": "99.95%",
-    "uptimeDay": "73.99%",
-    "uptimeWeek": "96.28%",
-    "uptimeMonth": "99.14%",
-    "uptimeYear": "99.90%",
+    "status": "up",
+    "uptime": "99.94%",
+    "uptimeDay": "69.06%",
+    "uptimeWeek": "95.58%",
+    "uptimeMonth": "98.98%",
+    "uptimeYear": "99.89%",
     "time": 243,
-    "timeDay": 178,
-    "timeWeek": 204,
+    "timeDay": 176,
+    "timeWeek": 202,
     "timeMonth": 212,
     "timeYear": 244,
     "dailyMinutesDown": {
       "2025-11-18": 105,
       "2026-01-27": 33,
-      "2026-07-24": 374
+      "2026-07-24": 376,
+      "2026-07-25": 69
     }
   },
   {
@@ -60,7 +61,7 @@
     "time": 419,
     "timeDay": 470,
     "timeWeek": 395,
-    "timeMonth": 448,
+    "timeMonth": 451,
     "timeYear": 436,
     "dailyMinutesDown": {
       "2025-12-19": 27
@@ -80,7 +81,7 @@
     "time": 476,
     "timeDay": 388,
     "timeWeek": 454,
-    "timeMonth": 601,
+    "timeMonth": 608,
     "timeYear": 494,
     "dailyMinutesDown": {
       "2026-06-04": 385,
@@ -109,7 +110,7 @@
     "time": 252,
     "timeDay": 206,
     "timeWeek": 152,
-    "timeMonth": 169,
+    "timeMonth": 171,
     "timeYear": 245,
     "dailyMinutesDown": {
       "2025-11-18": 167
@@ -129,7 +130,7 @@
     "time": 512,
     "timeDay": 387,
     "timeWeek": 301,
-    "timeMonth": 316,
+    "timeMonth": 321,
     "timeYear": 567,
     "dailyMinutesDown": {
       "2025-08-26": 20,
@@ -145,21 +146,22 @@
     "url": "https://alvaloper.com",
     "icon": "https://icons.duckduckgo.com/ip3/alvaloper.com.ico",
     "slug": "alvaloper",
-    "status": "down",
-    "uptime": "99.95%",
-    "uptimeDay": "73.97%",
-    "uptimeWeek": "96.28%",
-    "uptimeMonth": "99.14%",
-    "uptimeYear": "99.90%",
+    "status": "up",
+    "uptime": "99.94%",
+    "uptimeDay": "69.06%",
+    "uptimeWeek": "95.58%",
+    "uptimeMonth": "98.98%",
+    "uptimeYear": "99.89%",
     "time": 243,
-    "timeDay": 178,
-    "timeWeek": 204,
+    "timeDay": 176,
+    "timeWeek": 202,
     "timeMonth": 212,
     "timeYear": 244,
     "dailyMinutesDown": {
       "2025-11-18": 105,
       "2026-01-27": 33,
-      "2026-07-24": 374
+      "2026-07-24": 376,
+      "2026-07-25": 69
     }
   }
 ]
