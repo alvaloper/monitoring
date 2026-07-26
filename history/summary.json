@@ -72,16 +72,16 @@
     "url": "https://www.xataka.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.xataka.com.ico",
     "slug": "xataka",
-    "status": "down",
-    "uptime": "99.71%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.79%",
-    "uptimeYear": "99.56%",
+    "status": "up",
+    "uptime": "99.70%",
+    "uptimeDay": "95.82%",
+    "uptimeWeek": "99.40%",
+    "uptimeMonth": "99.65%",
+    "uptimeYear": "99.55%",
     "time": 477,
-    "timeDay": 288,
+    "timeDay": 334,
     "timeWeek": 423,
-    "timeMonth": 599,
+    "timeMonth": 593,
     "timeYear": 493,
     "dailyMinutesDown": {
       "2026-06-04": 385,
@@ -94,7 +94,7 @@
       "2026-06-19": 20,
       "2026-06-18": 13,
       "2026-06-30": 92,
-      "2026-07-26": 0
+      "2026-07-26": 60
     }
   },
   {
