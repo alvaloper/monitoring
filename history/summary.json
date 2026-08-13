@@ -14,7 +14,7 @@
     "timeDay": 256,
     "timeWeek": 105,
     "timeMonth": 82,
-    "timeYear": 144,
+    "timeYear": 145,
     "dailyMinutesDown": {
       "2025-08-26": 20,
       "2025-11-05": 21,
@@ -29,16 +29,16 @@
     "url": "https://alvaloper.github.io",
     "icon": "https://icons.duckduckgo.com/ip3/alvaloper.github.io.ico",
     "slug": "alvaloper",
-    "status": "down",
+    "status": "up",
     "uptime": "99.86%",
-    "uptimeDay": "58.50%",
-    "uptimeWeek": "94.07%",
-    "uptimeMonth": "96.64%",
+    "uptimeDay": "55.53%",
+    "uptimeWeek": "93.65%",
+    "uptimeMonth": "96.54%",
     "uptimeYear": "99.69%",
     "time": 479,
-    "timeDay": 9447,
-    "timeWeek": 6322,
-    "timeMonth": 2323,
+    "timeDay": 9060,
+    "timeWeek": 6150,
+    "timeMonth": 2302,
     "timeYear": 517,
     "dailyMinutesDown": {
       "2025-11-18": 105,
@@ -48,7 +48,7 @@
       "2026-07-26": 41,
       "2026-08-01": 76,
       "2026-08-04": 103,
-      "2026-08-13": 597
+      "2026-08-13": 640
     }
   },
   {
@@ -66,7 +66,7 @@
     "timeDay": 529,
     "timeWeek": 392,
     "timeMonth": 431,
-    "timeYear": 439,
+    "timeYear": 440,
     "dailyMinutesDown": {
       "2025-12-19": 27
     }
@@ -86,7 +86,7 @@
     "timeDay": 456,
     "timeWeek": 399,
     "timeMonth": 817,
-    "timeYear": 523,
+    "timeYear": 524,
     "dailyMinutesDown": {
       "2026-06-04": 385,
       "2026-06-03": 80,
@@ -151,16 +151,16 @@
     "url": "https://alvaloper.com",
     "icon": "https://icons.duckduckgo.com/ip3/alvaloper.com.ico",
     "slug": "alvaloper",
-    "status": "down",
+    "status": "up",
     "uptime": "99.86%",
-    "uptimeDay": "58.48%",
-    "uptimeWeek": "94.07%",
-    "uptimeMonth": "96.64%",
+    "uptimeDay": "55.53%",
+    "uptimeWeek": "93.65%",
+    "uptimeMonth": "96.54%",
     "uptimeYear": "99.69%",
     "time": 479,
-    "timeDay": 9447,
-    "timeWeek": 6322,
-    "timeMonth": 2323,
+    "timeDay": 9060,
+    "timeWeek": 6150,
+    "timeMonth": 2302,
     "timeYear": 517,
     "dailyMinutesDown": {
       "2025-11-18": 105,
@@ -170,7 +170,7 @@
       "2026-07-26": 41,
       "2026-08-01": 76,
       "2026-08-04": 103,
-      "2026-08-13": 597
+      "2026-08-13": 640
     }
   }
 ]
