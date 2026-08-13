@@ -31,15 +31,15 @@
     "slug": "alvaloper",
     "status": "down",
     "uptime": "99.88%",
-    "uptimeDay": "72.11%",
-    "uptimeWeek": "96.02%",
-    "uptimeMonth": "97.09%",
-    "uptimeYear": "99.73%",
-    "time": 393,
-    "timeDay": 9248,
-    "timeWeek": 5285,
-    "timeMonth": 1685,
-    "timeYear": 421,
+    "uptimeDay": "69.23%",
+    "uptimeWeek": "95.60%",
+    "uptimeMonth": "97.00%",
+    "uptimeYear": "99.72%",
+    "time": 415,
+    "timeDay": 9312,
+    "timeWeek": 5596,
+    "timeMonth": 1854,
+    "timeYear": 445,
     "dailyMinutesDown": {
       "2025-11-18": 105,
       "2026-01-27": 33,
@@ -48,7 +48,7 @@
       "2026-07-26": 41,
       "2026-08-01": 76,
       "2026-08-04": 103,
-      "2026-08-13": 400
+      "2026-08-13": 442
     }
   },
   {
@@ -153,15 +153,15 @@
     "slug": "alvaloper",
     "status": "down",
     "uptime": "99.88%",
-    "uptimeDay": "72.09%",
-    "uptimeWeek": "96.01%",
-    "uptimeMonth": "97.09%",
-    "uptimeYear": "99.73%",
-    "time": 393,
-    "timeDay": 9248,
-    "timeWeek": 5285,
-    "timeMonth": 1685,
-    "timeYear": 421,
+    "uptimeDay": "69.22%",
+    "uptimeWeek": "95.60%",
+    "uptimeMonth": "96.99%",
+    "uptimeYear": "99.72%",
+    "time": 415,
+    "timeDay": 9312,
+    "timeWeek": 5596,
+    "timeMonth": 1854,
+    "timeYear": 445,
     "dailyMinutesDown": {
       "2025-11-18": 105,
       "2026-01-27": 33,
@@ -170,7 +170,7 @@
       "2026-07-26": 41,
       "2026-08-01": 76,
       "2026-08-04": 103,
-      "2026-08-13": 400
+      "2026-08-13": 442
     }
   }
 ]
