@@ -104,18 +104,20 @@
     "url": "https://dolar.wilkinsonpc.com.co/",
     "icon": "https://icons.duckduckgo.com/ip3/dolar.wilkinsonpc.com.co.ico",
     "slug": "dolar-trm",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 234,
-    "timeDay": 218,
-    "timeWeek": 165,
-    "timeMonth": 208,
+    "timeDay": 149,
+    "timeWeek": 154,
+    "timeMonth": 204,
     "timeYear": 223,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-11-22": 0
+    }
   },
   {
     "name": "Cointelegraph",
